@@ -17,6 +17,6 @@ This microservice implements a socket server with a client function to produce u
 * The server will respond to the client with the data and a success message.
 * The client then returns the data for the application administrator to use.
 
-## UML Sequence Diagram
+### UML Sequence Diagram
 
 <img src="UMLsequence.svg"/>
