@@ -19,4 +19,4 @@ This microservice implements a socket server with a client function to produce u
 
 ## UML Sequence Diagram
 
-<img src="UMLsequence.svg" width="128"/>
+<img src="UMLsequence.svg"/>
