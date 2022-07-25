@@ -16,3 +16,7 @@ This microservice implements a socket server with a client function to produce u
   - Ensure the path to logins.txt in socket_server.py is correct.
 * The server will respond to the client with the data and a success message.
 * The client then returns the data for the application administrator to use.
+
+## UML Sequence Diagram
+
+<img src="UMLsequence.svg" width="128"/>
