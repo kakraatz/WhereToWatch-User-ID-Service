@@ -13,5 +13,6 @@ This microservice implements a socket server with a client function to produce u
 * The server will receive the login and service strings that are sent from the client function.
 * A numeric ID will be generated for the associated account.
 * The server writes the data to a database (in this case we are using a text file for simplicity).
+  - Ensure the path to logins.txt in socket_server.py is correct.
 * The server will respond to the client with the data and a success message.
 * The client then returns the data for the application administrator to use.
